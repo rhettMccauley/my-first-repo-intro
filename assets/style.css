@@ -1,1 +1,99 @@
 /* Copy your CSS code from CodePen below this point */
+.food {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: Serif;
+    font-size: 3.4em;
+    margin: 0 auto;
+    color: #730000;
+  }
+  
+  h2 {
+    font-family: Serif;
+    font-size: 2.8em;
+    margin: 0 auto;
+    color: #730000;
+  }
+  
+  h3 {
+    font-family: Serif;
+    font-size: 2.6em;
+    margin: 0 auto;
+    color: #730000;
+  }
+  
+  h4 {
+    font-family: Serif;
+    font-size: 1.7em;
+    margin: 0 auto;
+    color: #730000;
+  }
+  .image {
+    width: 300px;
+    height: 300px;
+  }
+  #logo-img {
+    width: 300px;
+    height: 300px;
+  }
+  #para-bg {
+    background-image: url("https://images.unsplash.com/photo-1505826759037-406b40feb4cd?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    /*    alt: food truck by Paula Vermeulen ; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 550px;
+    width: auto;
+    display: grid;
+    place-items: center;
+  }
+  .order {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    display: flex;
+    align-content: center;
+  }
+  .bend {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .link {
+    height: 50px;
+    width: 50px;
+  }
+  p {
+    font-size: 20px;
+  }
+  #nav {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    color: #730000;
+    background-color: #e65c00;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .detail {
+    text-align: center;
+  }
+  #clean {
+    list-style-type: none;
+  }
+  #pretty {
+    background-color: rgba(255, 148, 0, 0.6);
+    text-align: center;
+  }
+  .nl {
+    text-decoration: none;
+    color: #730000;
+  }
+  #peek {
+    background-color: #e65c00;
+  }
+  
